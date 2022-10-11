@@ -96,17 +96,17 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'Kyy-Md'
-global.namebot = '​ Thorne'
-global.wm = '© ThorneBotz Bye Kyy-Md'
+global.namebot = '​ Yushino'
+global.wm = '© YhusinoBotz Bye Kyy-Md'
 global.media = 'https://telegra.ph/file/5d1c5cd253f0c700ece29.jpg'
 global.wm = 'Kyy-Md '
 global.watermark = wm
 global.wm2 = 'Kyy-Md '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© ThorneBotz MD`
+global.titlebot = `𝘒𝘺𝘺 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
+global.stickpack = '𝘒𝘺𝘺 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
+global.stickauth = `© YushinoBotz MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
