@@ -37,7 +37,7 @@ let teksbio = `┆⫹⫺ 💌 Nama : Kyy
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio2 = `┆⫹⫺ 💌 Nama : KyyXd
 ┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
-┆⫹⫺ ♂️ Gender : Wanita
+┆⫹⫺ ♂️ Gender : Pria
 ┆⫹⫺ 👁️‍🗨️ Agama : Private
 ┆⫹⫺ ⏰ Tanggal lahir : 26 - 05 - 2007
 ┆⫹⫺ 🎨 Umur : 15
