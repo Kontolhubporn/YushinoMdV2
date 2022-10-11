@@ -35,16 +35,16 @@ let teksbio = `┆⫹⫺ 💌 Nama : Kyy
 └––––––––––––·•
 `
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio2 = `┆⫹⫺ 💌 Nama : KyyXd
+let teksbio2 = `┆⫹⫺ 💌 Nama : Frmndaa
 ┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
 ┆⫹⫺ ♂️ Gender : Pria
-┆⫹⫺ 👁️‍🗨️ Agama : Private
-┆⫹⫺ ⏰ Tanggal lahir : 26 - 05 - 2007
-┆⫹⫺ 🎨 Umur : 15
-┆⫹⫺ 🧮 Kelas : X
+┆⫹⫺ 🕋 Agama : Islam
+┆⫹⫺ ⏰ Tanggal lahir : 06 - 02 - 2004
+┆⫹⫺ 🎨 Umur : 18
+┆⫹⫺ 🧮 Kelas : XII
 ┆⫹⫺ 🧩 Hobby : Banyak
 ┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
-┆⫹⫺ 🗺️ Tinggal : Indonesia, Bandung
+┆⫹⫺ 🗺️ Tinggal : Indonesia, Aceh
 └––––––––––––·•
 `
 
@@ -63,8 +63,8 @@ title: `⫹⫺ Oᴛʜᴇʀ ⫹⫺`,
 rows: [
 {title: "⸙ Kontak", rowId: ".owner kontak"},
 {title: "⸙ Nomor", rowId: ".owner nomor"},
-{title: "⸙ Biodata Kyy", rowId: ".owner bio"},
-{title: "⸙ Biodata kyyXd", rowId: ".owner bio2"},
+{title: "⸙ Biodata KyyXd", rowId: ".owner bio"},
+{title: "⸙ Biodata Frmndaa", rowId: ".owner bio2"},
 {title: "⸙ Script", rowId: ".sc"},
 ]}, {
 title: `⬔ Sᴜᴘᴘᴏʀᴛ Mᴇ ⬔`,
@@ -117,7 +117,7 @@ await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard
                         case 'bio2':
           //conn.sendHydrated(m.chat, teksbio, wm, ppown, sig, "📷 Instagram", nomorown, '🌹 Nomor', [[null, null], [null, null],[null,null]], m)
 
-          conn.sendButton(m.chat, '┍┈༺ *𝙱𝚒𝚘𝙳𝚊𝚝𝚊 Kyy* ༻', teksbio2, ppown2, [
+          conn.sendButton(m.chat, '┍┈༺ *𝙱𝚒𝚘𝙳𝚊𝚝𝚊 Frmndaa* ༻', teksbio2, ppown2, [
                 ['Sewa Bot', `${usedPrefix}sewa`],
                 ['Menu', `${usedPrefix}menu`]
             ], m)
