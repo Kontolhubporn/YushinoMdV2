@@ -343,7 +343,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
+global.urlnya = "https://www.instagram.com/riskysatyr"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '0813 6128 1833'
 
