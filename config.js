@@ -88,30 +88,30 @@ global.prems = []
 global.nomorbot = '6285864382581'
 global.nomorown = '6285770356017'
 global.nomorown1 = '6285770356017'
-global.nomorown2 = '6285770356017'
+global.nomorown2 = '6282365089294'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Kyy-Md'
+global.author = 'Kyy-Xd'
 global.namebot = '​ Yushino'
 global.wm = '© YhusinoBotz Bye Kyy-Md'
 global.media = 'https://telegra.ph/file/5d1c5cd253f0c700ece29.jpg'
-global.wm = 'Kyy-Md '
+global.wm = 'Kyy-Xd '
 global.watermark = wm
-global.wm2 = 'Kyy-Md '
+global.wm2 = 'Kyy-Xd '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝘒𝘺𝘺 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝘒𝘺𝘺 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
+global.titlebot = `𝘒𝘺𝘺 𝐗 𝘍𝘳𝘮𝘯𝘥𝘢𝘢`
+global.stickpack = '𝘒𝘺𝘺 𝐗 𝘍𝘳𝘮𝘯𝘥𝘢𝘢'
 global.stickauth = `© YushinoBotz MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Kyy-Md'
-global.nameown2 = 'Kyy-Md'
+global.nameown1= 'Kyy-Xd'
+global.nameown2 = 'Kyy-Xd'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
